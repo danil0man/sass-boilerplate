@@ -55,6 +55,7 @@ nano style.scss
 
 
 // Abstract
+
 @import 'abstract/functions';
 
 @import 'abstract/minmix';
@@ -63,6 +64,7 @@ nano style.scss
 
 
 // Base
+
 @import 'base/animation';
 
 @import 'base/base';
@@ -77,10 +79,12 @@ nano style.scss
 
 
 // Components
+
 @import 'components/button';
 
 
 // Layout
+
 @import 'layout/footer';
 
 @import 'layout/forms';
@@ -93,6 +97,7 @@ nano style.scss
 
 
 // Pages
+
 @import 'pages/about';
 
 @import 'pages/contact';
