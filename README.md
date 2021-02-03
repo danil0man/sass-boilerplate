@@ -17,7 +17,7 @@ Make sure to change the settings on vsc to save the sass in the right folder.
       {
          "format": "compressed",
          "extensionName": ".min.css",
-         "savePath": "dist/css"
+         "savePath": "project/dist/css"
       }
    ]
 ```
