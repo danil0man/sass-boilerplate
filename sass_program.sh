@@ -37,7 +37,6 @@ echo "// Base" >> style.scss
 echo "@import 'base/animation';" >> style.scss
 echo "@import 'base/base';" >> style.scss
 echo "@import 'base/reset';" >> style.scss
-echo "@import 'base/responsive';" >> style.scss
 echo "@import 'base/typography';" >> style.scss
 echo "@import 'base/utilities';" >> style.scss
 echo -e "\n" >> style.scss
@@ -50,6 +49,7 @@ echo "@import 'layout/forms';" >> style.scss
 echo "@import 'layout/grid';" >> style.scss
 echo "@import 'layout/header';" >> style.scss
 echo "@import 'layout/navigation';" >> style.scss
+echo "@import 'layout/responsive';" >> style.scss
 echo -e "\n" >> style.scss
 echo "// Pages" >> style.scss
 echo "@import 'pages/about';" >> style.scss
