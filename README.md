@@ -11,7 +11,9 @@
 ## Technologies ##
 
 >This file use Git Bash or Linux Command Prompt. The Scss can be activated by using [Live Sass Compiler](https://github.com/ritwickdey/vscode-live-sass-compiler) extension in VSC.
+>
 >The Source Code below uses normalize.css to add it to your code please go to [Normalize](https://necolas.github.io/normalize.css/8.0.1/normalize.css). The script comes with it ready
+>
 Make sure to change the settings on vsc to save the sass in the right folder.
 ```
 "liveSassCompile.settings.formats": [
